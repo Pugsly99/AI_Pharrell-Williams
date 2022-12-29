@@ -22,7 +22,7 @@ app.post('/', async (req, res) => {
 	const { message } = req.body;
 	const response = await openai.createCompletion({
 		model: 'text-davinci-003',
-		prompt: `Pretend you are Pharrell Silliam. Answer with motivational content.
+		prompt: `Pretend you are Pharrell Williams. Answer with motivational content.
         Pharrell: how can I help you today?
         Person: I want some motivation.
         Pharrell: Trust yourself and your feelings.

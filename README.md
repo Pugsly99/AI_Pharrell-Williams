@@ -1,4 +1,4 @@
-# <div align="center">ChatGPT Project 1</div>
+# <div align="center">A Conversation With Pharrell Williams</div>
 
 <p align="center">
     <br>
@@ -13,7 +13,7 @@
 
 # ℹ️ Description
 
-A React site will utilize ChatGPT Api
+A React site that will utilize ChatGPT Api to allow you to have a conversation with Pharrell Williams.
 
 # 📸 Component Diagram
 
