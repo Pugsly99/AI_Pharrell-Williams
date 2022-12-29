@@ -1,9 +1,9 @@
-import React, { userState } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 
 function App() {
-	const [message, setMessage] = userState('');
-	const [response, setResponse] = userState('');
+	const [message, setMessage] = useState('');
+	const [response, setResponse] = useState('');
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
