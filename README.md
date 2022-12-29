@@ -1,71 +1,80 @@
-# Getting Started with Create React App
+# <div align="center">ChatGPT Project 1</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <br>
+    <a href="https://github.com/Pugsly99">
+        <img style="border-radius: 100%; height: 250px; width: auto" src="https://avatars.githubusercontent.com/u/72629902?s=460&u=3d57cdd64df52a007e362b2cb3e02573cdaa9c3a&v=4">
+    </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <small>Last Updated: December 28th, 2022</small>
+</p>
 
-In the project directory, you can run:
+# ℹ️ Description
 
-### `npm start`
+A React site will utilize ChatGPT Api
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📸 Component Diagram
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+N/A
 
-### `npm test`
+# 🧑‍💻 Contributers
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Name                                                     | GitHub Profile                          |
+| -------------------------------------------------------- | --------------------------------------- |
+| [Ryland Adams](https://www.linkedin.com/in/rylandadams/) | [Pugsly99](https://github.com/Pugsly99) |
 
-### `npm run build`
+# ⚙️ Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   <a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a>
+-   <a href="https://github.com/">Git/GitHub</a>
+-   <a href="https://reactjs.org/">ReactJS</a>
+-   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a>
+-   <a href="https://getbootstrap.com/">Bootstrap</a>
+-   <a href="https://www.javascript.com/">JavaScriptES6</a>
+-   <a href="https://reactjs.org/docs/introducing-jsx.html">JSX</a>
+-   <a href="https://facebook.github.io/create-react-app/docs/getting-started">Create-React-App</a>
+-   <a href="https://nodejs.org/en/">Node.js</a>
+-   <a href="https://webpack.js.org/">Webpack</a>
+-   <a href="https://babeljs.io/">Babel</a>
+-   <a href="https://eslint.org/">Eslint</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 💾 Installation Requirements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## For Both Mac & Windows systems
 
-### `npm run eject`
+#### To Clone:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-   Open your preferred command line program.
+-   Navigate to the location or directory you'd like the project directory to be created in. (e.g., "cd Desktop" if you'd like to clone the project to your desktop)
+-   Enter the command "$ git clone https://github.com/Pugsly99/chatGPTProject-1" in your command line.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### To Download:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-   Navigate to the [project repository](https://github.com/Pugsly99/chatGPTProject-1) in your browser.
+-   Click the green "Code" button toward the top right of the page.
+-   Click "Download ZIP" and extract the files.
+-   Open the newly-downloaded project in your preferred code editor.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 🖥️ Opening the Project on your Local System
 
-## Learn More
+Once the project has been cloned and you have all the necessary items on your local computer, open the project in the application of your choice (<a href="https://code.visualstudio.com/">Visual Code Studio</a> was used and is recommended by the application builder)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Run the project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# ☎️ Support / Contact Details
 
-### Code Splitting
+-   [Ryland Adams](mailto:rylandadams@yahoo.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# 🐛 Bugs / Issues
 
-### Analyzing the Bundle Size
+| Date | Error | Handled | Solution |
+| :--- | :---- | :------ | :------- |
+|      |       | ✅      |          |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# ©️ License & Copyright
 
-### Making a Progressive Web App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# chatGPTProject-1
+Copyright (c) 2021 **_Ryland Adams_**
