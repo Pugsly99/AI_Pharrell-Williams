@@ -5,7 +5,36 @@ body {
 		'Helvetica Neue', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-color: tan;
+	background-image: url('https://fsb.zobj.net/crop.php?r=KisUZ7E8EWUStI5AvK2nKxSq5fAYtsjcngfMRWLHpK1s1Qc4ew1_AODOrnxtqcLHVKNLUxGLsTn_LyxXTMHk3uJcjYyAUxhpzYrDVnh908tWbZQqc4BrBrndCHrCbn9o6BJ-GJ1P8o_emnBR-PiaJkPW6jo55Vm40rbYWCHsrwQv9420tUx7OUq3_Okk_SacV0pKmHJQqgXUqpUh');
+	background-position: center;
+	background-size: auto;
+}
+
+h1 {
+	text-align: center;
+	background-color: rgb(118, 113, 83);
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+textarea {
+	text-align: center;
+	margin: 2%;
+}
+
+.Conversation {
+	background-color: rgb(170, 51, 53);
+	display: inline-block;
+	border-radius: 20px;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-right: 1%;
+}
+
+.Response {
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
 
 code {
@@ -15,4 +44,5 @@ code {
 
 .App {
 	text-align: center;
+	overflow-x: hidden;
 }
