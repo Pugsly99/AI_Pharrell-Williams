@@ -14,10 +14,11 @@
 # ℹ️ Description
 
 A React site that will utilize ChatGPT Api to allow you to have a conversation with Pharrell Williams.
+Just a quick little project to explore the API provided by ChatGPT.
 
 # 📸 Component Diagram
 
-N/A
+FRONT END <---------> Open AI API
 
 # 🧑‍💻 Contributers
 
@@ -29,6 +30,7 @@ N/A
 
 -   <a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a>
 -   <a href="https://github.com/">Git/GitHub</a>
+-   <a href="https://openai.com/">ChatGPT/Open Ai</a>
 -   <a href="https://reactjs.org/">ReactJS</a>
 -   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a>
 -   <a href="https://getbootstrap.com/">Bootstrap</a>
