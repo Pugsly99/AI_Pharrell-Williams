@@ -7,10 +7,13 @@ const cors = require('cors');
 const app = express();
 const port = 3001;
 
+// const { REACT_APP_OPENAI_API_KEY } = process.env;
+// console.log(REACT_APP_OPENAI_API_KEY);
+
 const configuration = new Configuration({
 	organization: 'org-PCOqeTxo2Za4C4gvwebWmrcD',
-	apiKey: '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',
-	// apiKey: process.env.OPENAI_API_KEY,
+	apiKey: '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',
+	// apiKey: REACT_APP_OPENAI_API_KEY,
 });
 const openai = new OpenAIApi(configuration);
 // const response = await openai.listEngines();
@@ -28,7 +31,7 @@ app.post('/', async (req, res) => {
         Pharrell: Trust yourself and your feelings.
         Person: ${message}?
         Pharrell:`,
-		max_tokens: 10,
+		max_tokens: 100,
 		temperature: 0,
 	});
 	console.log(response.data);
